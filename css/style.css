@@ -1,0 +1,71 @@
+header {
+    color: #573071; 
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 20px;
+    }
+
+    
+#curriculum{
+    text-align: center;
+}
+
+.banner img{
+        width: 100%;
+        height: 180px;
+        
+    }
+    
+
+.imagen_perfil img{
+        width:200px;
+        height: 200px;
+        margin:10px auto;
+        display:block;
+
+    }
+
+h2{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color:#573071;
+    background-size: 30PX;
+    font-weight: bold;
+    font-size: 30px;  
+    line-height: 100%; 
+    font-feature-settings: 'cpsp';
+    font-style: italic;
+    
+}
+
+.fondo_subtitulo{
+    background: #a6cecd; 
+
+}
+
+
+#informacion{
+    text-align: center;
+}
+
+b{
+    font-style: italic;
+    font-size: 20px;
+    line-height: 15px;
+}
+
+
+#pie_pagina {
+    background: #73ddd1;
+    text-align: center; 
+    color: #573071;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+.lista_hobbies{
+    font-size: 20px;
+    line-height: 50px;
+}
+
+#titulo{
+    text-align: center;
+}
+
